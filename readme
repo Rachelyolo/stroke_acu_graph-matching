@@ -1,0 +1,5 @@
+如果要做precision 用fmri_o_443的文件夹
+如果不做precision 用fmri_443
+
+以fmri health为例子
+先跑fmri_precision_health_0.py
